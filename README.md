@@ -1,6 +1,6 @@
 # flutterflightdemo
 
-A new Flutter project.
+A new Flutter Flight Demo project.
 
 ## Getting Started
 
@@ -14,3 +14,23 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Environment
+- Flutter Version
+    - 3.16.3
+- Chrome
+- Visual Studio Code
+- Plugin for VSCode
+    - Flutter v3.78.0
+    - Dart v3.78.2
+
+## How to create a Flutter project
+```
+$ flutter create (Project Name)
+```
+
+## How to make code & debug
+- Edit lib/main.dart
+- Select a device to use on VSCode
+    - Chrome
+- Select [Run] -> [Start Debugging] on VSCode
